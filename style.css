@@ -1,8 +1,8 @@
-/* makes the site dark */
 body {
   color: #222;
   background: #fff;
   font: 100% system-ui;
+  text-align: center;
 }
 a {
   color: #0033cc;
@@ -18,3 +18,4 @@ a {
     color: #809fff;
   }
 }
+
